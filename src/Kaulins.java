@@ -29,6 +29,8 @@ public class Kaulins {
 			System.out.println("Programma apturēta!");
 			break;
 		}
+		
+		
 		}while(izvele!=2);
 		scan.close();
 	}
