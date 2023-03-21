@@ -2,6 +2,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
+
 public class Kaulins {
 	
 	static int mestKaulinu(){
